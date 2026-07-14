@@ -1,5 +1,5 @@
-# Hola, soy Karen 👋
+# Hola, soy Karen 👩‍💻
 
-Soy Analista Programador Computacional en formación, interesada en el desarrollo de sistemas, soluciones digitales y tecnologías de la información.
+Soy Analista Programador Computacional, enfocada en el desarrollo de sistemas y soluciones digitales.
 
-Actualmente trabajo con tecnologías como React, JavaScript, Supabase, SQL y herramientas de desarrollo colaborativo como Git/GitHub.
+Trabajo con tecnologías como React, JavaScript, Supabase, SQL y herramientas de desarrollo colaborativo como Git/GitHub.
